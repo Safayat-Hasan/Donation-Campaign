@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 const Header = () => {
 
     const links = <>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/donation'>Donation</NavLink></li>
-        <li><NavLink to='/statistics'>Statistics</NavLink></li>
+        <li className=""><NavLink to='/'>Home</NavLink></li>
+        <li className=""><NavLink to='/donation'>Donation</NavLink></li>
+        <li className=""><NavLink to='/statistics'>Statistics</NavLink></li>
     </>
 
     return (
@@ -23,7 +23,7 @@ const Header = () => {
                 <img src="/Resources/Logo.png" alt="" />
             </div>
             <div className="navbar-end hidden lg:flex">
-                <ul className="menu menu-horizontal px-1">
+                <ul className="text-lg menu menu-horizontal px-1">
                     {links}
                 </ul>
             </div>
