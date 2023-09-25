@@ -1,0 +1,136 @@
+[
+    
+    {
+      "id":2,
+      "picture": "https://i.ibb.co/1fXxjNY/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$29.99"
+    },
+    {
+      "id":3,
+      "picture": "https://i.ibb.co/K2G3y3G/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F33",
+      "description": "Join our Used Clothing Drive to make a positive impact! Your gently worn clothes can find new purpose by providing warmth and comfort to those in need. Together, we can give a second life to clothing and support communities in a sustainable way. Donations are a small step with a big heart.",
+      "price": "$39.99"
+    },
+    {
+      "id":4,
+      "picture": "https://i.ibb.co/0n8syCK/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F8714733",
+      "description": "Better Food for Everyone is our commitment to nourishing communities with wholesome and sustainable meals. We believe that access to nutritious food is a fundamental right. Join us in our mission to ensure that everyone, regardless of their circumstances, has the opportunity to enjoy better, healthier meals for a brighter and more vibrant future.",
+      "price": "$49.99"
+    },
+    {
+      "id":5,
+      "picture": "https://i.ibb.co/s5hMWG9/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF33",
+      "description": "'Clean Water for Children' is a vital initiative dedicated to providing safe and accessible drinking water to children in need. Our mission is simple yet profound: to ensure that every child can grow up healthy and strong, free from the burden of waterborne diseases. Join us in making a difference, one drop at a time.",
+      "price": "$59.99"
+    },
+    {
+        "id":1,
+        "picture": "https://i.ibb.co/s5hMWG9/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052FF",
+        "card_bg": "#0052FF26",
+        "text_button_bg": "#0052FF33",
+        "description": "'Clean Water for Children' is a vital initiative dedicated to providing safe and accessible drinking water to children in need. Our mission is simple yet profound: to ensure that every child can grow up healthy and strong, free from the burden of waterborne diseases. Join us in making a difference, one drop at a time.",
+        "price": "$19.99"
+      },
+    {
+      "id":6,
+      "picture": "https://i.ibb.co/1fXxjNY/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$69.99"
+    },
+    {
+      "id":7,
+      "picture": "https://i.ibb.co/K2G3y3G/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F33",
+      "description": "Join our Used Clothing Drive to make a positive impact! Your gently worn clothes can find new purpose by providing warmth and comfort to those in need. Together, we can give a second life to clothing and support communities in a sustainable way. Donations are a small step with a big heart.",
+      "price": "$79.99"
+    },
+    {
+      "id":8,
+      "picture": "https://i.ibb.co/0n8syCK/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F8714733",
+      "description": "Better Food for Everyone is our commitment to nourishing communities with wholesome and sustainable meals. We believe that access to nutritious food is a fundamental right. Join us in our mission to ensure that everyone, regardless of their circumstances, has the opportunity to enjoy better, healthier meals for a brighter and more vibrant future.",
+      "price": "$89.99"
+    },
+    {
+      "id":9,
+      "picture": "https://i.ibb.co/s5hMWG9/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF33",
+      "description": "'Clean Water for Children' is a vital initiative dedicated to providing safe and accessible drinking water to children in need. Our mission is simple yet profound: to ensure that every child can grow up healthy and strong, free from the burden of waterborne diseases. Join us in making a difference, one drop at a time.",
+      "price": "$99.99"
+    },
+    {
+      "id":10,
+      "picture": "https://i.ibb.co/1fXxjNY/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$109.99"
+    },
+    {
+      "id":11,
+      "picture": "https://i.ibb.co/K2G3y3G/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F33",
+      "description": "Join our Used Clothing Drive to make a positive impact! Your gently worn clothes can find new purpose by providing warmth and comfort to those in need. Together, we can give a second life to clothing and support communities in a sustainable way. Donations are a small step with a big heart.",
+      "price": "$119.99"
+    },
+    {
+      "id":12,
+      "picture": "https://i.ibb.co/0n8syCK/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F8714733",
+      "description": "Better Food for Everyone is our commitment to nourishing communities with wholesome and sustainable meals. We believe that access to nutritious food is a fundamental right. Join us in our mission to ensure that everyone, regardless of their circumstances, has the opportunity to enjoy better, healthier meals for a brighter and more vibrant future.",
+      "price": "$129.99"
+    }
+  ]
+  
