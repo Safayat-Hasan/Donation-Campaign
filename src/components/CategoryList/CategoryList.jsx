@@ -7,7 +7,7 @@ const CategoryList = () => {
     return (
         <div className="mt-[100px] mb-[150px]">
             
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
                 {
                     categories.map(cate => <Category key={cate.id} cate={cate}></Category>)
                 }

@@ -22,7 +22,7 @@ const Header = () => {
                 </div>
                 <img src="/Resources/Logo.png" alt="" />
             </div>
-            <div className="navbar-end hidden lg:flex">
+            <div className="navbar-end hidden md:flex">
                 <ul className="text-lg menu menu-horizontal px-1">
                     {links}
                 </ul>

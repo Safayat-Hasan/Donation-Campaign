@@ -2,7 +2,7 @@
 
 const Category = ({cate}) => {
     const {picture, category, title, card_bg, category_bg, text_button_bg} = cate;
-    console.log(card_bg);
+    
     return (
         <div>
             <div className={`bg-[${card_bg}] card card-compact bg-base-100 shadow-xl`}>
