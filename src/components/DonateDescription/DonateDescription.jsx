@@ -12,7 +12,7 @@ const DonateDescription = () => {
 
     const handleAddDonation = () => {
         saveDonation(idInt);
-        toast('You have donated successfully');
+        toast(`You have donated ${category.price} successfully`);
     }
 
     return (
