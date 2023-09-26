@@ -1,10 +1,13 @@
+import { NavLink } from "react-router-dom";
 
 
 const Category = ({cate}) => {
-    const {picture, category, title, card_bg, category_bg, text_button_bg} = cate;
-    
+    const {id, picture, category, title, card_bg, category_bg, text_button_bg} = cate;
+
+        
+
     return (
-        <div>
+        <div><NavLink to={`/description/${id}`}>
             <div className={`bg-[${card_bg}] card card-compact bg-base-100 shadow-xl`}>
                 <figure><img src={picture} alt="Shoes" /></figure>
                 <div className="card-body">
@@ -13,7 +16,7 @@ const Category = ({cate}) => {
                     
                     
                 </div>
-            </div>
+            </div></NavLink>
         </div>
     );
 };
