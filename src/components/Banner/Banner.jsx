@@ -14,7 +14,7 @@ const Banner = () => {
 
     return (
         <div className="">
-            <img className="lg:h-[750px] banner-image" src="/Resources/donation.png" alt="" />
+            <img className="lg:h-[750px] banner-image" src="Resources/donation.png" alt="" />
 
             <div className="overlay"></div>
 
