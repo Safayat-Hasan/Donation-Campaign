@@ -6,17 +6,16 @@ const Banner = () => {
 
     const [input, setInput] = useState('all');
 
-    const handleSubmit = e =>{
+    const handleSubmit = e => {
         e.preventDefault();
         setInput(e.target.search.value);
     }
 
-    
 
     return (
         <div className="">
             <img className="lg:h-[750px] banner-image" src="/Resources/donation.png" alt="" />
-            
+
             <div className="overlay"></div>
 
             <div className="banner-content">
