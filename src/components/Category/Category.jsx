@@ -13,8 +13,6 @@ const Category = ({cate}) => {
                 <div className="card-body">
                     <button style={{ backgroundColor: `${text_button_bg}`, color: `${category_bg}` }}  className={`p-[10px] mr-auto rounded card-title text-sm font-medium`}>{category}</button>
                     <p style={{ color: `${category_bg}` }} className={`text-xl font-semibold card-title`}>{title}</p>
-                    
-                    
                 </div>
             </div></NavLink>
         </div>

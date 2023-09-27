@@ -36,7 +36,7 @@ const router = createBrowserRouter([
       {
         path: '/description/:id',
         element: <DonateDescription></DonateDescription>,
-        loader: () => fetch('../categories.json')
+        loader: () => fetch('../categories.json'),
       }
     ]
   },
@@ -48,3 +48,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <RouterProvider router={router} />
   </React.StrictMode>,
 )
+

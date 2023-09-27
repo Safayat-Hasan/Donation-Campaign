@@ -9,6 +9,13 @@ const Donation = () => {
     const [donations, setDonations] = useState([]);
     const [dataLength, setDataLength] = useState(4);
 
+    
+    const donatePercentage = parseFloat((5/12)*100).toFixed(1);
+    const totalPercentage = parseFloat(100-donatePercentage).toFixed(1);
+    console.log(totalPercentage)
+    console.log(donatePercentage)
+    
+
     useEffect(() => {
         const storedCateIds = getStoredDonation();
         if (cates.length > 0) {
@@ -31,11 +38,10 @@ const Donation = () => {
                     donations.slice(0, dataLength).map(donate => <Donate key={donate.id} donate={donate}></Donate>)
                 }
             </div>
-            <div className={dataLength === donations.length ? 'hidden':'text-center mt-8 mb-16'}>
+            <div className={ donations.length <= 4 || dataLength === donations.length? 'hidden':'text-center mt-8 mb-16'}>
                 <button onClick={()=>setDataLength(donations.length)} className="bg-[#009444] font-semibold px-7 py-4 text-white rounded-lg">See All</button>
             </div>
         </div>
-
     );
 };
 
